@@ -3,6 +3,10 @@
 #  O'rnatish: pip install -r requirements.txt
 # ============================================================
 
+# Pydantic (Python 3.12 bilan mos versiyalar)
+pydantic-core==2.27.2
+pydantic==2.10.6
+
 aiogram==3.7.0
 aiosqlite==0.20.0
 
