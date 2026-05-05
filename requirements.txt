@@ -22,7 +22,7 @@ PyMuPDF==1.24.3
 # Windows: https://github.com/UB-Mannheim/tesseract/wiki dan Tesseract o'rnating
 # Ubuntu:  sudo apt-get install tesseract-ocr tesseract-ocr-uzb tesseract-ocr-rus
 pytesseract==0.3.10
-Pillow==10.3.0
+Pillow==11.2.1
 
 # ──────────────────────────────────────────────────────────
 # pytesseract uchun qo'shimcha o'rnatish (Linux/Ubuntu):
